@@ -1,0 +1,2 @@
+D:\github\fist\fist\contact\x64\Debug\contact.exe
+D:\c++\vs\contact\x64\Debug\contact.exe
